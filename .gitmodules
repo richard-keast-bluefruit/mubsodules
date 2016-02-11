@@ -1,0 +1,3 @@
+[submodule "mubsodules"]
+	path = mubsodules
+	url = git@github.com:richardkeast/mubsodules.git
